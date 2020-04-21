@@ -16,3 +16,7 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.card {
+    background-color: #f0f8ff5e;
+}
